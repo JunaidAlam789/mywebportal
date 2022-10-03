@@ -54,20 +54,14 @@ body {
   border-bottom-color: #fff;
 }
 
-/*
- .dropbtn {
-  background-color: #000000;
-  color: white;
-  padding: 16px;
-  font-size: 16px;
-  border: none;
-  cursor: pointer;
-} 
+.contacts a{
+color: white;
+margin: 5px;
+padding-top: 5px;
+text-decoration: none
 
-.dropbtn:hover, .dropbtn:focus {
-  background-color: #373739;
 }
-*/
+
 .dropdown {
   position: relative;
   display: inline-block;
